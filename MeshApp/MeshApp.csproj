@@ -94,22 +94,28 @@
     <Reference Include="System.Xml" />
     <Reference Include="TechnitiumLibrary.IO, Version=2.5.4.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\TechnitiumLibrary\bin\TechnitiumLibrary.IO.dll</HintPath>
+      <HintPath>..\lib\TechnitiumLibrary.IO.dll</HintPath>
     </Reference>
     <Reference Include="TechnitiumLibrary.Net, Version=3.4.1.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\TechnitiumLibrary\bin\TechnitiumLibrary.Net.dll</HintPath>
+      <HintPath>..\lib\TechnitiumLibrary.Net.dll</HintPath>
     </Reference>
     <Reference Include="TechnitiumLibrary.Net.Firewall">
-      <HintPath>..\..\..\TechnitiumLibrary\bin\TechnitiumLibrary.Net.Firewall.dll</HintPath>
+      <HintPath>..\lib\TechnitiumLibrary.Net.Firewall.dll</HintPath>
     </Reference>
     <Reference Include="TechnitiumLibrary.Net.Tor, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\TechnitiumLibrary\bin\TechnitiumLibrary.Net.Tor.dll</HintPath>
+      <HintPath>..\lib\TechnitiumLibrary.Net.Tor.dll</HintPath>
+    </Reference>
+    <Reference Include="TechnitiumLibrary.Net.UPnP">
+      <HintPath>..\lib\TechnitiumLibrary.Net.UPnP.dll</HintPath>
     </Reference>
     <Reference Include="TechnitiumLibrary.Security.Cryptography, Version=2.3.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\TechnitiumLibrary\bin\TechnitiumLibrary.Security.Cryptography.dll</HintPath>
+      <HintPath>..\lib\TechnitiumLibrary.Security.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="TechnitiumLibrary.Security.Cryptography.EllipticCurve">
+      <HintPath>..\lib\TechnitiumLibrary.Security.Cryptography.EllipticCurve.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -33,22 +33,25 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="TechnitiumLibrary.IO">
-      <HintPath>..\..\..\TechnitiumLibrary\bin\TechnitiumLibrary.IO.dll</HintPath>
+      <HintPath>..\lib\TechnitiumLibrary.IO.dll</HintPath>
     </Reference>
     <Reference Include="TechnitiumLibrary.Net">
-      <HintPath>..\..\..\TechnitiumLibrary\bin\TechnitiumLibrary.Net.dll</HintPath>
+      <HintPath>..\lib\TechnitiumLibrary.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="TechnitiumLibrary.Net.Firewall">
+      <HintPath>..\lib\TechnitiumLibrary.Net.Firewall.dll</HintPath>
     </Reference>
     <Reference Include="TechnitiumLibrary.Net.Tor">
-      <HintPath>..\..\..\TechnitiumLibrary\bin\TechnitiumLibrary.Net.Tor.dll</HintPath>
+      <HintPath>..\lib\TechnitiumLibrary.Net.Tor.dll</HintPath>
     </Reference>
     <Reference Include="TechnitiumLibrary.Net.UPnP">
-      <HintPath>..\..\..\TechnitiumLibrary\bin\TechnitiumLibrary.Net.UPnP.dll</HintPath>
+      <HintPath>..\lib\TechnitiumLibrary.Net.UPnP.dll</HintPath>
     </Reference>
     <Reference Include="TechnitiumLibrary.Security.Cryptography">
-      <HintPath>..\..\..\TechnitiumLibrary\bin\TechnitiumLibrary.Security.Cryptography.dll</HintPath>
+      <HintPath>..\lib\TechnitiumLibrary.Security.Cryptography.dll</HintPath>
     </Reference>
     <Reference Include="TechnitiumLibrary.Security.Cryptography.EllipticCurve">
-      <HintPath>..\..\..\TechnitiumLibrary\bin\TechnitiumLibrary.Security.Cryptography.EllipticCurve.dll</HintPath>
+      <HintPath>..\lib\TechnitiumLibrary.Security.Cryptography.EllipticCurve.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
